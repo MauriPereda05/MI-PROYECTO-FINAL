@@ -1,0 +1,40 @@
+.image-container {
+    position: absolute;
+    top: 18%;
+    left: 28%;
+}
+
+.nosotros, .people {
+    max-width: 100%;
+    width: 800px;
+    height: auto;
+}
+
+.text-contenido{
+    padding: 13px;
+    margin-top: 395px;
+}
+
+.rojo{
+    margin-top: 20px;
+    font-size: 50px;
+
+    font-family: "Playwrite HR", cursive;
+}
+
+.descript{
+    padding-top: 33px;
+    padding-bottom: 20px;
+    font-size: 23px;
+
+}
+
+.people{
+   margin-left: 570px;
+   width: 700px;
+   height: 380px;
+
+}
+
+
+

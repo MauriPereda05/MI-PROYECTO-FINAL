@@ -1,0 +1,83 @@
+/* Lemas */
+
+.XP{
+    position: absolute;
+    bottom: 4%;
+    left: 3.3%;
+    height: 80%;
+    width: 93%;
+    max-width: 100%;
+    border-radius: 30px;
+    
+}
+
+h1{
+    position: absolute;
+    top: 40%;
+    left: 7%;
+    font-size: 60px;
+    color: white;
+    font-family: "Playwrite CZ", cursive;
+}
+
+.lemas, .comida{
+    position: absolute;
+    top: 50%;
+    left: 7.1%;
+    font-size: 40px;
+    color: white;
+    font-family: "Playwrite CZ", cursive;
+}
+
+.boton{
+    position: absolute;
+    top: 60%;
+    left: 10%;
+
+    width: 300px;
+    transition: background-color 0.5s ease;
+}
+
+.boton:hover{
+    background-color: rgba(2, 0, 0, 0.521);
+    color: white;
+}
+
+/* SLIDER */ 
+
+
+.encabezado {
+    color: black;
+    font-size: 40px;
+    margin-right: 280px; 
+}
+
+hr {
+    width: 167%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    
+}
+
+.static-section {
+    margin-bottom: 950px; 
+}
+
+.mycarousel {
+    position: absolute;
+    top: 1050px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%; 
+    max-width: 900px;
+    margin-top: 20px; 
+}
+
+.text-content {
+    margin-top: 20px; 
+}

@@ -1,0 +1,45 @@
+.container-card {
+    position: absolute;
+    top: 1650px;
+    left: 410px;
+}
+  
+.Card {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 100px;
+    width: 80%; 
+
+}
+  
+.card-item {
+    text-align: center;
+}
+  
+.card-item img {
+    max-width: 100%;
+    display: block;
+}
+  
+.card-item button {
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: #21388b;
+
+    color: white;
+}
+
+.botones{
+    width: 300px;
+}
+
+.pizzeria{
+    width: 600px;
+    height: 300px;
+
+    border-radius: 20px;
+}
+  
+  
+  
+  

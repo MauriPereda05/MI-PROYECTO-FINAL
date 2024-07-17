@@ -1,0 +1,167 @@
+{
+  "productos": {
+      "pizzas": [
+          {
+              "id": "1",
+              "imagen": "https://www.paulinacocina.net/wp-content/uploads/2023/11/como-hacer-pizza-hawaiana-Paulina-Cocina-Recetas.jpg",
+              "nombre": "Pizza Hawaiana",
+              "costo": "$12.99"
+          },
+          {
+              "id": "2",
+              "imagen": "https://www.annarecetasfaciles.com/files/pizza-margarita-1-815x458.jpg",
+              "nombre": "Pizza Margarita",
+              "costo": "$10.99"
+          },
+          {
+              "id": "3",
+              "imagen": "https://www.gastrolabweb.com/u/fotografias/m/2021/3/29/f1280x720-10830_142505_5050.jpg",
+              "nombre": "Pizza Cuatro Quesos",
+              "costo": "$11.99"
+          },
+          {
+              "id": "4",
+              "imagen": "https://www.sortirambnens.com/wp-content/uploads/2019/02/pizza-de-peperoni.jpg",
+              "nombre": "Pizza de Pepperoni",
+              "costo": "$9.99"
+          },
+          {
+              "id": "5",
+              "imagen": "https://www.laespanolaaceites.com/wp-content/uploads/2019/06/pizza-con-champinones-y-aceitunas-negras-1080x671.jpg",
+              "nombre": "Pizza con Champiñones",
+              "costo": "$8.99"
+          }
+      ],
+      "hamburguesas": [
+          {
+              "id": "1",
+              "imagen": "https://d31npzejelj8v1.cloudfront.net/media/recipemanager/recipe/1687289278_clasica-bem.jpg",
+              "nombre": "Hamburguesa Clásica",
+              "costo": "$9.99"
+          },
+          {
+              "id": "2",
+              "imagen": "https://d31npzejelj8v1.cloudfront.net/media/recipemanager/recipe/1687289598_doble-carne.jpg",
+              "nombre": "Hamburguesa Doble",
+              "costo": "$12.99"
+          },
+          {
+              "id": "3",
+              "imagen": "https://mandolina.co/wp-content/uploads/2023/06/Hamburguesa-vegetariana.png",
+              "nombre": "Hamburguesa Vegetariana",
+              "costo": "$10.99"
+          },
+          {
+              "id": "4",
+              "imagen": "https://www.comedera.com/wp-content/uploads/2023/07/Hamburguesa-de-pollo-picante.jpg",
+              "nombre": "Hamburguesa de Pollo",
+              "costo": "$11.99"
+          },
+          {
+              "id": "5",
+              "imagen": "https://img.freepik.com/fotos-premium/hamburguesa-picante-jalapenos-queso-pepper-jack_198067-2240.jpg",
+              "nombre": "Hamburguesa Picante",
+              "costo": "$12.49"
+          }
+      ],
+      "bebidas": [
+          {
+              "id": "1",
+              "imagen": "https://pizzamia.pe/cdn/shop/products/PZM-Pepsi1.5Lt-01_2400x.jpg?v=1629484942",
+              "nombre": "Pepsi",
+              "costo": "$1.99"
+          },
+          {
+              "id": "2",
+              "imagen": "https://miamarket.pe/assets/uploads/221b9e347e36d61ed6a9ebb525b94f0d.jpg",
+              "nombre": "Coca-Cola",
+              "costo": "$1.99"
+          },
+          {
+              "id": "3",
+              "imagen": "https://socialdrinks.pe/wp-content/uploads/2023/10/1295_agua-san-luis-sin-gas-625ml-5024-default-1.jpeg",
+              "nombre": "Agua Mineral",
+              "costo": "$0.99"
+          },
+          {
+              "id": "4",
+              "imagen": "https://cdn0.celebritax.com/sites/default/files/styles/amp/public/recetas/limonada.jpg",
+              "nombre": "Limonada",
+              "costo": "$1.00"
+          },
+          {
+              "id": "5",
+              "imagen": "https://licoreriasunidas.pe/cdn/shop/products/8f269f6f715146718b76ecfbfe8328fb.webp?v=1677856601",
+              "nombre": "Vino",
+              "costo": "$1.50"
+          }
+      ],
+      "helados": [
+          {
+              "id": "1",
+              "imagen": "https://www.macabites.com/wp-content/uploads/2024/03/DSC02378-scaled.jpg",
+              "nombre": "Helado de Chocolate",
+              "costo": "$3.99"
+          },
+          {
+              "id": "2",
+              "imagen": "https://www.recetasnestle.com.do/sites/default/files/srh_recipes/62099096785a3c939a1a1eefb06bf358.jpg",
+              "nombre": "Helado de Vainilla",
+              "costo": "$3.49"
+          },
+          {
+              "id": "3",
+              "imagen": "https://www.comedera.com/wp-content/uploads/2022/04/Helado-de-fresas-casero-shutterstock_1477385882.jpg",
+              "nombre": "Helado de Fresa",
+              "costo": "$3.99"
+          },
+          {
+              "id": "4",
+              "imagen": "https://sivarious.com/wp-content/uploads/2023/06/helado-de-mango-casero.jpg",
+              "nombre": "Helado de Mango",
+              "costo": "$4.49"
+          },
+          {
+              "id": "5",
+              "imagen": "https://www.gourmet.cl/wp-content/uploads/2022/12/sandwich-helado.jpg",
+              "nombre": "Helado de Galletas",
+              "costo": "$4.99"
+          }
+      ],
+      "combos": [
+          {
+              "id": "1",
+              "imagen": "https://i.pinimg.com/736x/54/43/d0/5443d0f39d366a5a6e31b36249db110e.jpg",
+              "nombre": "Combo Burguer",
+              "costo": "$22.99"
+          },
+          {
+              "id": "2",
+              "imagen": "https://d2j6dbq0eux0bg.cloudfront.net/images/47611246/2928990698.jpg",
+              "nombre": "Combo Familiar",
+              "costo": "$24.99"
+          },
+          {
+              "id": "3",
+              "imagen": "https://tofuu.getjusto.com/orioneat-local/resized2/NAvQBbd2ZagZug83F-1200-1200.jpeg",
+              "nombre": "Promo familiar",
+              "costo": "$27.99"
+          },
+          {
+              "id": "4",
+              "imagen": "https://i.pinimg.com/originals/10/c9/80/10c9800d88cf0199dc50b1f416783490.jpg",
+              "nombre": "Pizza Combo",
+              "costo": "$19.99"
+          },
+          {
+              "id": "5",
+              "imagen": "https://kingspizzaperu.com/wp-content/uploads/2023/06/Imagen-de-WhatsApp-2023-06-16-a-las-15.57.09.jpg",
+              "nombre": "Combo Duo Familiar",
+              "costo": "$25.99"
+          }
+      ]
+  }
+}
+
+  
+  
