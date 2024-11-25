@@ -69,7 +69,7 @@ export const Combos = ({ cartItems, setCartItems }) => {
                             <img src="https://tupizzaexpress.wordpress.com/wp-content/uploads/2018/06/20180629_100338_0001.png?w=1180" className="d-block w-100" alt="..." style={{ maxHeight: "550px", objectFit: "cover" }} />
                         </div>
                         <div className="carousel-item">
-                            <img src="https://santafe24horas.com.ar/wp-content/uploads/2020/07/pizza-casera-1024x576.jpg" className="d-block w-100" alt="..." style={{ maxHeight: "460px", objectFit: "cover" }} />
+                            <img src="https://i.pinimg.com/originals/f2/42/43/f24243ad16f6f7b81f05d1794aad5a88.png" className="d-block w-100" alt="..." style={{ maxHeight: "460px", objectFit: "cover" }} />
                         </div>
                     </div>
                     <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
